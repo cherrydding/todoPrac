@@ -1,3 +1,3 @@
 # hanghea99
-hanghea99 레파지토리
+hanghea99 repositories
 todolist prac
