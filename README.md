@@ -1,3 +1,3 @@
 # hanghea99
-hanghea99 repositories
+hanghea99 repository
 todolist prac
